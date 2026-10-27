@@ -14,6 +14,8 @@ Prácticas y proyectos del **Grado Superior en Desarrollo de Aplicaciones Web (D
 
 Los repositorios de esta organización son privados. Mis proyectos públicos están en mi [perfil personal](https://github.com/PabloUbieto).
 
-## Contacto
+## Autor
 
-[GitHub](https://github.com/PabloUbieto) · [LinkedIn](https://www.linkedin.com/in/pablo-ubieto-foncillas)
+**Pablo Ubieto Foncillas** · [GitHub](https://github.com/PabloUbieto) · [LinkedIn](https://www.linkedin.com/in/pablo-ubieto-foncillas)
+
+2º DAW · Centro San Valero · Curso 2026/2027
