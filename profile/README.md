@@ -1,8 +1,8 @@
-<h1 align="center">Pablo Ubieto · DAW</h1>
-
 <p align="center">
-  Español · <a href="https://github.com/PabloUbieto-DAW/.github/blob/main/profile/README.en.md">English</a>
+  <b>Español</b> | <a href="https://github.com/PabloUbieto-DAW/.github/blob/main/profile/README.en.md">English</a>
 </p>
+
+<h1 align="center">Pablo Ubieto · DAW</h1>
 
 <p align="center">
   Actividades y proyectos del Grado Superior en Desarrollo de Aplicaciones Web.
