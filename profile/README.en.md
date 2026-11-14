@@ -1,8 +1,8 @@
-<h1 align="center">Pablo Ubieto · DAW</h1>
-
 <p align="center">
-  <a href="https://github.com/PabloUbieto-DAW/.github/blob/main/profile/README.md">Español</a> · English
+  <a href="https://github.com/PabloUbieto-DAW/.github/blob/main/profile/README.md">Español</a> | <b>English</b>
 </p>
+
+<h1 align="center">Pablo Ubieto · DAW</h1>
 
 <p align="center">
   Coursework and projects for the Higher Vocational Degree in Web Application Development.
